@@ -30,4 +30,5 @@ For a full description of the project, visit the
 # Collaborators
 Michael Seaman, TA 
 Elena Rogers, TA
+Nathan M., Software Developer 
 and weekly UCB provided tutor sessions

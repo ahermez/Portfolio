@@ -2,7 +2,7 @@ header {
     text-align: center;
     padding: 50px;
     background-image: url("../images/image4.jpeg");
-    color: rgb(183, 246, 8);
+    color: rgb(7, 32, 94);
     font-size: larger;
 }
 
@@ -14,6 +14,21 @@ header {
     background-repeat: no-repeat;
     opacity: .8;
 }
+
+.img-me {
+    width: 250px;
+    height: 200px;
+    background-image:url(images\me.jpg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+    margin-right: auto;
+    margin-left: auto;
+}
+
 main {
     display: flex;
     flex-direction: column;
