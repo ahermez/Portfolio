@@ -1,13 +1,13 @@
 header {
     text-align: center;
     padding: 50px;
-    background-image: url("../images/image4.jpeg");
+    background-image: url("..images\image4.jpeg");
     color: rgb(7, 32, 94);
     font-size: larger;
 }
 
 #header-image {
-    background-image: url("../images/image4.jpeg");
+    background-image: url("..images\image4.jpeg");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -146,8 +146,6 @@ ul li {
 
 .info-container {
     width: 80%;
-    
-    
     
 }
 

@@ -25,7 +25,8 @@ Images\code image 4.jpeg
 
 
 For a full description of the project, visit the
-[project page](https://github.com/ahermez/Portfolio/tree/0bade8dd2865399ffae1a5b0348708b7162adc71).
+[project page](https://github.cgitom/ahermez/Portfolio/tree/0bade8dd2865399ffae1a5b0348708b7162adc71).
+
 
 # Collaborators
 Michael Seaman, TA 
